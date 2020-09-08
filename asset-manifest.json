@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Marrichandu/coursera-test1static/css/main.5facb584.chunk.css",
+    "main.js": "/Marrichandu/coursera-test1static/js/main.8d8b47c1.chunk.js",
+    "main.js.map": "/Marrichandu/coursera-test1static/js/main.8d8b47c1.chunk.js.map",
+    "runtime-main.js": "/Marrichandu/coursera-test1static/js/runtime-main.4d3c8c61.js",
+    "runtime-main.js.map": "/Marrichandu/coursera-test1static/js/runtime-main.4d3c8c61.js.map",
+    "static/js/2.3ef2d018.chunk.js": "/Marrichandu/coursera-test1static/js/2.3ef2d018.chunk.js",
+    "static/js/2.3ef2d018.chunk.js.map": "/Marrichandu/coursera-test1static/js/2.3ef2d018.chunk.js.map",
+    "index.html": "/Marrichandu/coursera-test1index.html",
+    "precache-manifest.af348b782bbdc0be76c3a8d14a3eb5bb.js": "/Marrichandu/coursera-test1precache-manifest.af348b782bbdc0be76c3a8d14a3eb5bb.js",
+    "service-worker.js": "/Marrichandu/coursera-test1service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/Marrichandu/coursera-test1static/css/main.5facb584.chunk.css.map",
+    "static/js/2.3ef2d018.chunk.js.LICENSE.txt": "/Marrichandu/coursera-test1static/js/2.3ef2d018.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d3c8c61.js",
+    "static/js/2.3ef2d018.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.8d8b47c1.chunk.js"
+  ]
+}
